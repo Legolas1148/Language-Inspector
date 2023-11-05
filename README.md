@@ -7,5 +7,6 @@ This is a collaborative project for MakeUC 2023. The contributers are Niteesh Ra
 ### A translator for when someone may need to learn or understand words in spanish/English and vice versa.
 
 # Contributions:
-### Elizabeth and Niteesh: Coders and debugging
-### Cael and Oriana: quality assurance, debugging, and documentation
+ Elizabeth and Niteesh: Coders and debugging
+ Cael and Oriana: quality assurance, debugging, and documentation
+ 
