@@ -8,7 +8,8 @@ This is a collaborative project for MakeUC 2023. The contributers are Niteesh Ra
 
 # Pre-requisites:
 #### The following python libraries must be installed prior to the implementation of this project. 
-#### Go to CMD and type pip install spellchecker
+#### Go to CMD and type:
+##### pip install spellchecker
 # Contributions:
  Elizabeth and Niteesh: Coders and debugging
  Cael and Oriana: quality assurance, debugging, and documentation
