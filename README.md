@@ -6,6 +6,9 @@ This is a collaborative project for MakeUC 2023. The contributers are Niteesh Ra
 ### A dictionary for convenient look-up of words right in the terminal.
 ### A translator for when someone may need to learn or understand words in spanish/English and vice versa.
 
+# Pre-requisites:
+## The following python libraries must be installed prior to the implementation of this project. 
+## Go to CMD and type pip install spellchecker
 # Contributions:
  Elizabeth and Niteesh: Coders and debugging
  Cael and Oriana: quality assurance, debugging, and documentation
